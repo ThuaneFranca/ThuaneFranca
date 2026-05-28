@@ -1,58 +1,30 @@
+<p align="center">
+  <img src="https://github.com/ThuaneFranca/ThuaneFranca/blob/main/1.png" width="100%">
+</p>
 
+# 👋 Olá, eu sou Thuane França
 
-## 👋 Olá, eu sou Thuane França
-
-<div align="center">
-
-💻 Desenvolvedora Full Stack
-<br>🚀 Apaixonada por tecnologia, criar experiências digitais modernas, funcionais e intuitivas
-<br>📍 São Paulo - Brasil
-
-</div>
+💻 Estudante de TI  
+🚀 Infraestrutura • Redes • Virtualização  
+📚 Em busca da primeira oportunidade na área tech
 
 ---
 
-## 🚀 SKILLS   
+## 🛠 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,vscode" />
-
-</div>
-
----
-
-## 💼 Projetos em destaque
-
-#### 🖤 Tattoo Studio
- Sistema moderno para estúdio de tatuagem desenvolvido com TypeScript.
-
-#### 💬 Fala Comigo
- Aplicação de comunicação utilizando pecs com foco em experiência do usuário.
-
-#### 🍔 Delivery App
- Aplicação de delivery com interface moderna e responsiva.
-
-#### 🛍️ Ecommerce Project
- Projeto de loja virtual com foco em design moderno.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
 
 ---
 
-## 🌐 Contato
+## 📫 Contato
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
 
-<a href="https://www.linkedin.com/in/thuane-fran%C3%A7a-1a2aa167/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:thuane.mikaella@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
