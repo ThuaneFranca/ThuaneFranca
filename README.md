@@ -1,58 +1,136 @@
-
-
-## 👋 Olá, eu sou Thuane França
-
 <div align="center">
 
-💻 Desenvolvedora Full Stack
-<br>🚀 Apaixonada por tecnologia, criar experiências digitais modernas, funcionais e intuitivas
-<br>📍 São Paulo - Brasil
+<img width="100%" src="COLE_AQUI_O_LINK_DA_SUA_IMAGEM"/>
+
+<br>
+<br>
+
+# 👩‍💻 Thuane França
+
+### Desenvolvedora Full Stack • Infraestrutura • Redes • Virtualização
+
+💡 Apaixonada por tecnologia, desenvolvimento moderno e soluções criativas.  
+🚀 Em constante evolução na área de tecnologia.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
 
 </div>
 
 ---
 
-## 🚀 SKILLS   
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 
 </div>
 
 ---
 
-## 💼 Projetos em destaque
-
-#### 🖤 Tattoo Studio
- Sistema moderno para estúdio de tatuagem desenvolvido com TypeScript.
-
-#### 💬 Fala Comigo
- Aplicação de comunicação utilizando pecs com foco em experiência do usuário.
-
-#### 🍔 Delivery App
- Aplicação de delivery com interface moderna e responsiva.
-
-#### 🛍️ Ecommerce Project
- Projeto de loja virtual com foco em design moderno.
-
----
-
-## 🌐 Contato
+# 📊 Estatísticas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thuane-fran%C3%A7a-1a2aa167/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:thuane.mikaella@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🔥 Streak
 
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Sobre Mim
+
+```typescript
+const thuane = {
+  localização: "São Paulo - Brasil",
+  área: [
+    "Infraestrutura",
+    "Redes",
+    "Virtualização",
+    "Desenvolvimento Web"
+  ],
+  estudando: [
+    "Node.js",
+    "React",
+    "Cloud",
+    "Linux"
+  ],
+  objetivo: "Conseguir minha oportunidade na área de tecnologia 🚀"
+}
+```
+
+---
+
+# 💼 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Projeto 1
+Descrição do projeto.
+
+Tecnologias:
+- React
+- TypeScript
+- Node.js
+
+</td>
+
+<td width="50%">
+
+### 💻 Projeto 2
+Descrição do projeto.
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌎 Contato
+
+<div align="center">
+
+📧 SEUEMAIL  
+🔗 SEULINKEDIN
+
+</div>
+
+---
+
+<div align="center">
+
+✨ "Sempre aprendendo. Sempre evoluindo." ✨
+
+</div>
