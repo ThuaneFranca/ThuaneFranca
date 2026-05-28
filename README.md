@@ -10,25 +10,6 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Atuo no desenvolvimento de aplicações web e sistemas mobile Android, criando projetos focados em performance, responsividade e experiência do usuário.
-
-Tenho experiência com:
-
-* 🌐 Desenvolvimento Full Stack
-* ⚡ TypeScript & JavaScript
-* ⚛️ React
-* 🖥️ Node.js
-* 📱 Desenvolvimento Android
-* 🗄️ Banco de Dados
-* ☁️ Infraestrutura
-
-Atualmente sigo aprimorando minhas habilidades em desenvolvimento Full Stack, aplicações mobile e construção de experiências digitais cada vez mais modernas e profissionais.
-
-
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
