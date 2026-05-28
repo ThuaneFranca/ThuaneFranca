@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,python,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,vscode" />
 
 </div>
 
