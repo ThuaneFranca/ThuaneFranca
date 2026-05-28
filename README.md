@@ -2,10 +2,7 @@
 
 <img width="100%" src="https://github.com/ThuaneFranca/ThuaneFranca/blob/main/1.png"/>
 
-<br>
-<br>
-
-# 👩‍💻 Thuane França
+# 👋 Olá, eu sou Thuane França
 
 ### Desenvolvedora Full Stack • Infraestrutura • Redes 
 
@@ -14,9 +11,13 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+<a href="SEULINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuane.mikaella@gmail.com)
+<a href="mailto:thuane.mikaella@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -26,22 +27,22 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+# 📊 Estatísticas GitHub
 
 <div align="center">
 
@@ -65,22 +66,26 @@
 
 # 🧠 Sobre Mim
 
-```typescript
+```
 const thuane = {
   localização: "São Paulo - Brasil",
+  
   área: [
     "Infraestrutura",
     "Redes",
     "Virtualização",
     "Desenvolvimento Web"
   ],
+
   estudando: [
-    "Node.js",
     "React",
+    "Node.js",
     "Cloud",
     "Linux"
   ],
-  objetivo: "Conseguir minha oportunidade na área de tecnologia 🚀"
+
+  objetivo:
+   "Conseguir minha oportunidade na área tech 🚀"
 }
 ```
 
@@ -90,29 +95,33 @@ const thuane = {
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🚀 Projeto 1
-Descrição do projeto.
+### 🚀 Tattoo Studio
+
+Sistema moderno para estúdio de tatuagem.
 
 Tecnologias:
 - React
-- TypeScript
 - Node.js
+- TypeScript
 
 </td>
 
 <td width="50%">
 
-### 💻 Projeto 2
-Descrição do projeto.
+### 💬 Fala Comigo
+
+Aplicação de comunicação moderna.
 
 Tecnologias:
-- HTML
-- CSS
+- React
 - JavaScript
+- CSS
 
 </td>
+
 </tr>
 </table>
 
@@ -122,7 +131,8 @@ Tecnologias:
 
 <div align="center">
 
-📧 SEUEMAIL  
+📧 SEUEMAIL
+
 🔗 SEULINKEDIN
 
 </div>
@@ -131,6 +141,6 @@ Tecnologias:
 
 <div align="center">
 
-✨ "Sempre aprendendo. Sempre evoluindo." ✨
+✨ Sempre aprendendo. Sempre evoluindo. ✨
 
 </div>
