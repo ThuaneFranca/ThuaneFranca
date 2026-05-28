@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 SKILLS   
 
 <div align="center">
 
