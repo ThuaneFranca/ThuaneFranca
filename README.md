@@ -3,7 +3,7 @@
 <div align="center">
 
 💻 Desenvolvedora Full Stack
-🚀 Apaixonada por tecnologia, criar experiências digitais modernas, funcionais e intuitivas
+//🚀 Apaixonada por tecnologia, criar experiências digitais modernas, funcionais e intuitivas
 📍 São Paulo - Brasil
 
 </div>
