@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="COLE_AQUI_O_LINK_DA_SUA_IMAGEM"/>
+<img width="100%" src="https://github.com/ThuaneFranca/ThuaneFranca/blob/main/1.png"/>
 
 <br>
 <br>
 
 # 👩‍💻 Thuane França
 
-### Desenvolvedora Full Stack • Infraestrutura • Redes • Virtualização
+### Desenvolvedora Full Stack • Infraestrutura • Redes 
 
 💡 Apaixonada por tecnologia, desenvolvimento moderno e soluções criativas.  
 🚀 Em constante evolução na área de tecnologia.
@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuane.mikaella@gmail.com)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ThuaneFranca&theme=tokyonight&hide_border=true"/>
 
 </div>
 
