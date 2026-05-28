@@ -22,7 +22,7 @@
 
 ## 💼 Projetos em destaque
 
-### 🖤 Tattoo Studio
+#### 🖤 Tattoo Studio
 Sistema moderno para estúdio de tatuagem desenvolvido com TypeScript.
 
 ### 💬 Fala Comigo
