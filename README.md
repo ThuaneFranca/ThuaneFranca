@@ -23,19 +23,15 @@
 ## 💼 Projetos em destaque
 
 ### 🖤 Tattoo Studio
-
 Sistema moderno para estúdio de tatuagem desenvolvido com TypeScript.
 
 ### 💬 Fala Comigo
-
-Aplicação de comunicação/chat com foco em experiência do usuário.
+Aplicação de comunicação utilizando pecs com foco em experiência do usuário.
 
 ### 🍔 Delivery App
-
 Aplicação de delivery com interface moderna e responsiva.
 
 ### 🛍️ Ecommerce Project
-
 Projeto de loja virtual com foco em design moderno.
 
 ---
