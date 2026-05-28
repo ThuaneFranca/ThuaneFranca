@@ -1,30 +1,58 @@
-<p align="center">
-  <img src="https://github.com/ThuaneFranca/ThuaneFranca/blob/main/1.png" width="100%">
-</p>
 
-# 👋 Olá, eu sou Thuane França
 
-💻 Estudante de TI  
-🚀 Infraestrutura • Redes • Virtualização  
-📚 Em busca da primeira oportunidade na área tech
+## 👋 Olá, eu sou Thuane França
 
----
+<div align="center">
 
-## 🛠 Tecnologias
+💻 Desenvolvedora Full Stack
+<br>🚀 Apaixonada por tecnologia, criar experiências digitais modernas, funcionais e intuitivas
+<br>📍 São Paulo - Brasil
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
-## 📫 Contato
+## 🚀 SKILLS   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 💼 Projetos em destaque
+
+#### 🖤 Tattoo Studio
+ Sistema moderno para estúdio de tatuagem desenvolvido com TypeScript.
+
+#### 💬 Fala Comigo
+ Aplicação de comunicação utilizando pecs com foco em experiência do usuário.
+
+#### 🍔 Delivery App
+ Aplicação de delivery com interface moderna e responsiva.
+
+#### 🛍️ Ecommerce Project
+ Projeto de loja virtual com foco em design moderno.
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thuane-fran%C3%A7a-1a2aa167/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thuane.mikaella@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+
