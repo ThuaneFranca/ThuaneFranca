@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPO/main/banner.png" />
+</p>
+
+
 ## 👋 Olá, eu sou Thuane França
 
 <div align="center">
